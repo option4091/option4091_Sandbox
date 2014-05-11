@@ -7,8 +7,9 @@ def function_02():
 
 def function_03():
 	print "This is a third function"
-=======
+
 def function_04():
 	print "This is a fourth function"
-
-
+	
+def function_05():
+	print "This is a fifth function"	
